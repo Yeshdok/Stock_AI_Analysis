@@ -1,0 +1,5 @@
+# 请在此文件中填写你的tushare token
+# 获取地址：https://tushare.pro/register
+# 示例：your_tushare_token_here
+
+d068f7d166886fb085e63ce4c7a7d0de75d81940ef8021840ea4bc2e

@@ -1,0 +1,21 @@
+{
+  "token": "your_tushare_token_here",
+  "timeout": 30,
+  "max_retries": 3,
+  "rate_limit": 200,
+  "endpoints": {
+    "pro_api": "http://api.tushare.pro",
+    "pro_bar": "http://api.tushare.pro"
+  },
+  "cache": {
+    "enable": true,
+    "ttl": 300
+  },
+  "features": {
+    "enable_daily": true,
+    "enable_daily_basic": true,
+    "enable_stk_limit": true,
+    "enable_trade_cal": true,
+    "enable_stock_basic": true
+  }
+}

@@ -1,0 +1,18 @@
+name: stock_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=2.3.0
+  - numpy>=1.22.4
+  - plotly>=6.1.2
+  - flask>=3.1.1
+  - requests>=2.32.4
+  - beautifulsoup4>=4.13.4
+  - lxml>=5.4.0
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+    - akshare>=1.17.4 

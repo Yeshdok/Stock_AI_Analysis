@@ -1,0 +1,17 @@
+{
+  "short_name": "股票分析",
+  "name": "股票分析系统",
+  "description": "专业的股票数据分析与技术指标计算系统",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary"
+} 
